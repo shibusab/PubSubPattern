@@ -1,0 +1,103 @@
+Hello World! Entering Event Aggregator
+10/21/2017 7:19:54 PM Received Order in BillingOrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Billing
+10/21/2017 7:19:54 PM Shipped Order Received in BillingOrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order Shipped In Billing
+Press any key to continue . . . Hello World! Entering Event Aggregator
+10/21/2017 7:42:27 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Billing
+10/21/2017 7:42:27 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Shipping
+10/21/2017 7:42:27 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing Order In Billing
+Hello World! Entering Event Aggregator
+10/21/2017 7:44:14 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Billing
+10/21/2017 7:44:14 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Shipping
+10/21/2017 7:44:14 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing Order In Billing
+10/21/2017 7:44:14 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order Shipped In Billing
+Hello World! Entering Event Aggregator
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Billing
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Shipping
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing Order In Billing
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order Shipped In Billing
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Creating And Sending Invoice In Billing
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Notified in Customer Service:OrderBilled
+10/21/2017 8:00:32 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Notified in Customer Service:OrderShipped
+Hello World! Entering Event Aggregator
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Billing
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order In Shipping
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing Order In Billing
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received Order Shipped In Billing
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Creating And Sending Invoice In Billing
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Notified in Customer Service:OrderBilled
+10/21/2017 8:01:41 PM OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Notified in Customer Service:OrderShipped
+Hello World! Entering Event Aggregator
+10/21/2017 8:02:34 PM Status:Received Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:02:34 PM Status:Received Order In Shipping, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:02:34 PM Status:Processing Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:02:34 PM Status:Received Order Shipped In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:02:34 PM Status:Creating And Sending Invoice In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:02:34 PM Status:Notified in Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:02:34 PM Status:Notified in Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+Hello World! Entering Event Aggregator
+10/21/2017 8:04:05 PM Status:Received Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:04:05 PM Status:Received Order In Shipping, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:04:05 PM Status:Processing Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:04:15 PM Status:Received Order Shipped In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:04:15 PM Status:Creating And Sending Invoice In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:04:15 PM Status:Notified in Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 8:04:15 PM Status:Notified in Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+Hello World! Entering Event Aggregator
+10/21/2017 9:01:52 PM Status:Received Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:01:52 PM Status:Received Order In Shipping, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:01:52 PM Status:Processing Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:02:02 PM Status:Received Order Shipped In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:02:02 PM Status:Creating And Sending Invoice In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:02:03 PM Status:Notified in Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:02:03 PM Status:Notified in Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+Hello World! Entering Event Aggregator
+10/21/2017 9:07:10 PM Status:Received Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:07:10 PM Status:Received Order In Shipping, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:07:10 PM Status:Processing Order In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:07:10 PM Status:Received Order Shipped In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:07:10 PM Status:Creating And Sending Invoice In Billing, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:07:10 PM Status:Notified in Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:07:10 PM Status:Notified in Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+Hello World! Entering Event Aggregator
+10/21/2017 9:10:22 PM Status:BILLING:Order Received, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:10:22 PM Status:SHIPPPING:Received Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:10:22 PM Status:SHIPPING:Processing Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:10:22 PM Status:BILLING:Order Shipped , OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:10:22 PM Status:BILLING:Creating And Sending Invoice, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:10:22 PM Status:Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:10:22 PM Status:Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+Hello World! Entering Event Aggregator
+10/21/2017 9:14:41 PM Status:BILLING:Order Received, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:14:41 PM Status:SHIPPPING:Received Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:14:41 PM Status:SHIPPING:Processing Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:14:41 PM Status:BILLING:Order Shipped , OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:14:41 PM Status:BILLING:Creating And Sending Invoice, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:14:41 PM Status:Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:14:41 PM Status:Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+Hello World! Entering Event Aggregator
+ Case 1 
+EventAggregatorPattern.SalesOrders.Messages.MyMessage
+10
+ Case 2 
+10/21/2017 9:33:34 PM Status:BILLING:Order Received, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:33:34 PM Status:SHIPPPING:Received Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:33:34 PM Status:SHIPPING:Processing Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:33:34 PM Status:Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:33:34 PM Status:BILLING:Order Shipped , OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:33:34 PM Status:BILLING:Creating And Sending Invoice, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:33:34 PM Status:Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+ Case 3 MVP
+Hello World! Entering Event Aggregator
+ Case 1 
+EventAggregatorPattern.SalesOrders.Messages.MyMessage
+10
+ Case 2 
+10/21/2017 9:36:00 PM Status:Customer Service:Order Received, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:BILLING:Order Received, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:SHIPPPING:Received Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:SHIPPING:Processing Order, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:Customer Service:OrderShipped, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:BILLING:Order Shipped , OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:BILLING:Creating And Sending Invoice, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+10/21/2017 9:36:00 PM Status:Customer Service:OrderBilled, OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01
+ Case 3 MVP

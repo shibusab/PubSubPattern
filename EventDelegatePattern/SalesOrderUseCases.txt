@@ -1,0 +1,21 @@
+﻿http://www.c-sharpcorner.com/UploadFile/pranayamr/publisher-or-subscriber-pattern-with-event-or-delegate-and-e/
+https://codereview.stackexchange.com/questions/5416/what-do-you-think-of-my-eventaggregator-implementation-in-c
+
+Use Cases
+  Customer Service Clerk takes Sales Order and Publishes It.
+  
+  Billing Clerk is subscribed to Customer Service Clerk
+  Shipping Clerk is subscribed to Customer Service Clerk
+  
+  Shipping Clerk Notifies Billing Clerk when Order is Processed.
+  
+******************
+Initial Design
+Create An Order
+Check Inventory and not sufficient Replinish Inventory
+Schedule Order
+Process Order
+Create Order Confirmation
+Notify Customer (Email, Text)
+
+

@@ -1,0 +1,47 @@
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:17:09 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCodeCUST01
+10/20/2017 3:17:09 PM Order Processed:OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCodeCUST01
+10/20/2017 3:17:09 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCodeCUST01
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:17:35 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCodeCUST01
+10/20/2017 3:17:35 PM Order Processed:OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCodeCUST01
+10/20/2017 3:17:35 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCodeCUST01
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:23:07 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Shipping
+10/20/2017 3:23:07 PM Order Processed:OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processed In Shipping
+10/20/2017 3:23:07 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:30:25 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Shipping
+10/20/2017 3:30:25 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing In Shipping
+10/20/2017 3:30:25 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+10/20/2017 3:30:25 PM Order Processed in Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processed In Billing
+10/20/2017 3:30:25 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+10/20/2017 3:30:25 PM Order Processed in Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processed In Billing
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:31:52 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Shipping
+10/20/2017 3:31:52 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing In Shipping
+10/20/2017 3:31:52 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+10/20/2017 3:31:52 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:32:47 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Shipping
+10/20/2017 3:32:47 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing In Shipping
+10/20/2017 3:32:47 PM Order Processed in Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processed In Billing
+10/20/2017 3:32:47 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:33:28 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+10/20/2017 3:33:28 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Shipping
+10/20/2017 3:33:28 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing In Shipping
+10/20/2017 3:33:28 PM Order Processed in Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processed In Billing
+Subscriber 1: 10
+Subscriber 2: 10
+10/20/2017 3:55:02 PM Received Order To Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Billing
+10/20/2017 3:55:02 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Received In Shipping
+10/20/2017 3:55:02 PM Received Order To Shipping: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processing In Shipping
+10/20/2017 3:55:02 PM Order Processed in Billing: OrderNumber:1, OrderDate:10-OCT-2017, OrderQty:1, CustomerCode:CUST01, Status:Processed In Billing

@@ -1,0 +1,2 @@
+C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventAggregator\obj\x86\Debug\EventAggregator.csprojResolveAssemblyReference.cache
+C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventAggregator\obj\x86\Debug\EventAggregator.pdb
