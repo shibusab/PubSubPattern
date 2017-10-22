@@ -3,8 +3,3 @@ C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventD
 C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventDrivenSimpleOrder\obj\x86\Debug\EventDelegatePattern.csprojResolveAssemblyReference.cache
 C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventDrivenSimpleOrder\obj\x86\Debug\EventDelegatePattern.exe
 C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventDrivenSimpleOrder\obj\x86\Debug\EventDelegatePattern.pdb
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventDelegatePattern\bin\Debug\EventDelegatePattern.exe
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventDelegatePattern\bin\Debug\EventDelegatePattern.pdb
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventDelegatePattern\obj\x86\Debug\EventDelegatePattern.csprojResolveAssemblyReference.cache
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventDelegatePattern\obj\x86\Debug\EventDelegatePattern.exe
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventDelegatePattern\obj\x86\Debug\EventDelegatePattern.pdb

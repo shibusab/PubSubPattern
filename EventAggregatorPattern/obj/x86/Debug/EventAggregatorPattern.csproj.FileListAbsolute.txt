@@ -4,9 +4,3 @@ C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventA
 C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventAggregator\bin\Debug\EventAggregatorPattern.exe
 C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventAggregator\bin\Debug\EventAggregatorPattern.pdb
 C:\Users\shibu\Documents\SharpDevelop Projects\EventDrivenOrderProcessing\EventAggregator\obj\x86\Debug\EventAggregatorPattern.exe
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventAggregatorPattern\bin\Debug\EventAggregatorPattern.exe.config
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventAggregatorPattern\bin\Debug\EventAggregatorPattern.exe
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventAggregatorPattern\bin\Debug\EventAggregatorPattern.pdb
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventAggregatorPattern\obj\x86\Debug\EventAggregatorPattern.csprojResolveAssemblyReference.cache
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventAggregatorPattern\obj\x86\Debug\EventAggregatorPattern.exe
-C:\Users\shibu\Documents\SharpDevelop Projects\PubSubPattern\EventAggregatorPattern\obj\x86\Debug\EventAggregatorPattern.pdb
